@@ -1,0 +1,27 @@
+h1 {
+    color: #79aec8;
+}
+
+.comment-reply {
+    display: none;
+}
+.wmd-panel {
+    width: auto !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+#id_publish_month {
+    display: inline-block;
+    width: auto
+}
+
+#id_publish_day {
+    display: inline-block;
+    width: auto
+}
+
+#id_publish_year {
+    display: inline-block;
+    width: auto
+}
